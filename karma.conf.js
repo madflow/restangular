@@ -1,6 +1,6 @@
 // Karma configuration
 
-var angularVersion = '1.6.0';
+var angularVersion = '1.5.9';
 var lodashVersion = '4.17.2';
 
 module.exports = function (config) {

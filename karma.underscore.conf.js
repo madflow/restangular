@@ -1,6 +1,6 @@
 // Karma configuration for use with underscore instead of lodash
 
-var angularVersion = '1.6.0';
+var angularVersion = '1.5.9';
 var underscoreVersion = '1.8.3';
 
 
